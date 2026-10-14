@@ -1,8 +1,8 @@
 # Shortest-Path Planning in a Large-Scale IoV/UAV Mobility Network
 
 **Course:** Design and Analysis of Algorithms  
-**Student:** _Richa yadav_____________________________  
-**Roll No.:** ____25MS0112__________________________  
+**Student:** Richa yadav 
+**Roll No.:** 25MS0112 
 **Submission Date:** 15 October 2026
 
 ---
