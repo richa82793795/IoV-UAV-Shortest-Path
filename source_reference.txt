@@ -1,0 +1,10 @@
+Primary dataset:
+9th DIMACS Implementation Challenge – Shortest Paths
+New York road network: USA-road-d.NY
+
+Official page:
+https://www.diag.uniroma1.it/challenge9/download.shtml
+
+Direct files:
+https://www.diag.uniroma1.it/challenge9/data/USA-road-d/USA-road-d.NY.gr.gz
+https://www.diag.uniroma1.it/challenge9/data/USA-road-d/USA-road-d.NY.co.gz

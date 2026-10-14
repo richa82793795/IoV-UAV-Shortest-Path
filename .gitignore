@@ -1,0 +1,7 @@
+﻿data/*.gr
+data/*.co
+__pycache__/
+*/__pycache__/
+*.pyc
+.venv/
+venv/
